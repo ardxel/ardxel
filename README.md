@@ -25,7 +25,7 @@ I'm a budding **Full-Stack Developer** currently on the lookout for new opportun
 ## My Projects
 
 - A service for viewing superhero films. [Demo](https://pet-project-superhero-films-demo.vercel.app/) | [Repository](https://github.com/ardxel/pet-project-superhero-films)
-- Chat bot. In process...
+- Messenger. [Demo](https://chat-orcin-gamma.vercel.app/) | [Repository](https://github.com/ardxel/pet-project-chat)
 
 ## Contact Me
 
