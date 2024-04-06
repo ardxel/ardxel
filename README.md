@@ -19,13 +19,12 @@ I'm a budding **Full-Stack Developer** currently on the lookout for new opportun
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## My Projects
 
+- Сhat messenger (fullstack app). [Demo](https://chat-orcin-gamma.vercel.app/) | [Repository](https://github.com/ardxel/pet-project-chat)
 - A service for viewing superhero films. [Demo](https://pet-project-superhero-films-demo.vercel.app/) | [Repository](https://github.com/ardxel/pet-project-superhero-films)
-- Messenger. [Demo](https://chat-orcin-gamma.vercel.app/) | [Repository](https://github.com/ardxel/pet-project-chat)
 
 ## Contact Me
 
